@@ -3,7 +3,7 @@ Version:	54074
 Release:	2
 Summary:	friendly cross-platform front end
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/texworks
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/texworks
 License:	
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/texworks.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/texworks.doc.r%{version}.tar.xz
